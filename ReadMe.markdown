@@ -30,5 +30,4 @@
   <li>🌧️ <a href="https://gitlab.com/kaelta/kwn">Kwn</a> - A new take on IoT vertical farming.</li>
   <li>♟️ <a href="https://gitlab.com/kaelta/lisera">Lisera</a> - Middleware client to allow bots to play on <a href="lichess.org">Lichess.</li>
   <li>🌐 <a href="https://www.kae.si">Kaeforest</a> - My personal website</li>
-  I don't usually contribute to open source or even use GitHub, if I have low activity it's because I have no respect for this platform 😊
-  </ul></p>
+</ul></p>
