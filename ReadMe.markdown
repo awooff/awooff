@@ -5,7 +5,7 @@
 
 <h2 align="left">Notable Projects</h2>
 <p><ul>
-  <li>🌧️ <a href="https://gitlab.com/kaelta/kwn">Kwn</a> - A new take on IoT vertical farming.</li>
+  <li>🌧️ <a href="https://gitlab.com/kaelta/kwn">Ceres</a> - A new take on IoT vertical farming.</li>
   <li>♟️ <a href="https://gitlab.com/kaelta/lisera">Lisera</a> - Middleware client to allow bots to play on <a href="lichess.org">Lichess.</li>
   <li>🌐 <a href="https://www.kae.si">Kaeforest</a> - My personal website</li>
 </ul></p>
@@ -20,4 +20,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=awooff&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###### I typically update this GitHub with completed projects from my [GitLab](https://gitlab.com/kaelta)
