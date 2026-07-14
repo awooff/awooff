@@ -1,8 +1,6 @@
-<h1 align="center"> Kae 🤍 </h1>
+# Kae
+ I write code on the internet and post it here occasionally.
+ Active on my [GitLab](https://gitlab.com/kaelta) rather than here.
 
-<h2 align="left">Notable Projects</h2>
-<p><ul>
-   <li>♟️ <a href="https://gitlab.com/kaelta/genghist">Genghis</a> - Middleware client to allow bots to play on <a href="lichess.org">Lichess.</li>
-  <li>🌧️ <a href="https://soundcloud.com/itskaelta">D33R</a> - Musical Projects</li>
-  <li>🌐 <a href="https://nataziel.nexus">Kaeforest</a> - My personal website</li>
-</ul></p>
+ Some old research from my uni days might still be here but I'll take a look and update it here from my old notebooks someday™️
+ :
